@@ -21,6 +21,6 @@ Folder można też nadpisać ale trzeba potem to przeklikać.
 
 
 Oryginalni autorzy tłumaczeń:
-    "Łukasz \"zabszk\" Jurczyk",
+    "Łukasz /"zabszk/" Jurczyk",
     "Multiverse Uncle",
     "Petris",
