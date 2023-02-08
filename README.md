@@ -12,12 +12,14 @@ ENG: My version of polish translations in SCP:SL
 3.Wejdź w folder o nazwie "Translations"
 ![Screenshot_20230208_171324](https://user-images.githubusercontent.com/82401427/217590537-ca6b9e26-f8bb-497b-877d-9255df5ec412.png)
 
-4.Usuń albo zmień nazwę folderu o nazwie "pl" a następnie wypakuj plik "pl.zip"
+4.Usuń albo zmień nazwę folderu o nazwie "pl" a następnie wypakuj plik "pl.zip".
+
 ![Screenshot_20230208_171338](https://user-images.githubusercontent.com/82401427/217590936-de2646e7-8aa5-4259-9e07-444180fbb4c6.png)
+
 Folder można też nadpisać ale trzeba potem to przeklikać.
 
 
-Oryginalni autorzy tłumaczeń:
+#Oryginalni autorzy tłumaczeń:
     "Łukasz \"zabszk\" Jurczyk",
     "Multiverse Uncle",
     "Petris",
