@@ -4,7 +4,7 @@ Poprawiona i lepsza wersja (według mnie) tłumaczeń do gry SCP:SL.
 
 ENG: My version of polish translations in SCP:SL.
 
-Instalacja:
+<b>Instalacja:</b>
 
 1.Wejdź w bibliotekę steam, znajdź SL'a a następnie kliknij prawym i wejdź w preferencje
 
