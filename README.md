@@ -21,7 +21,9 @@ ENG: My version of polish translations in SCP:SL.
 
 ![Screenshot_20230208_171338](https://user-images.githubusercontent.com/82401427/217590936-de2646e7-8aa5-4259-9e07-444180fbb4c6.png)
 
-Folder można też nadpisać ale trzeba potem to przeklikać.Na systemach Linux lepiej sprawdzić czy nie utworzył się folder w folderze po wypakowaniu.
+Folder można też nadpisać ale trzeba potem to przeklikać.
+
+Na systemach Linux lepiej sprawdzić czy nie utworzył się folder w folderze po wypakowaniu.
 
 
 Oryginalni autorzy tłumaczeń:
